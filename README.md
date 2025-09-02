@@ -81,17 +81,15 @@ The process is executed in three main passes:
 > |  1H 15m   |  CPU   |    True            |
 > |  3m 27s   |  GPU   |    True            |
 
-<video width="640" height="360" controls>
-  <source src="./Results/without_bg.mp4" type="video/mp4">
-</video>
 
-<video width="640" height="360" controls>
-  <source src="./Results/with_bg_1.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/105b6802-b996-4243-b734-87b756bb55e3
 
-<video width="640" height="360" controls>
-  <source src="./Results/with_bg_2.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/f47aebf1-1be0-449c-ab72-b9cf622f47e0
+
+
+https://github.com/user-attachments/assets/d1893dd2-87c5-4e8a-88cd-6ca7cd3a4a87
+
 
 ## Limitations
 
@@ -103,3 +101,4 @@ The process is executed in three main passes:
 
 - Background construction using temporal relation.
 - Auto selecting video resolution adapting to the frequent translations of the frames.
+
